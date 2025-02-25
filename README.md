@@ -29,6 +29,7 @@ I will be pushing my solved LeetCode problems over here :)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/luffy-2606/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/luffy-2606/LeetCode/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,4 +42,12 @@ I will be pushing my solved LeetCode problems over here :)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/luffy-2606/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/luffy-2606/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/luffy-2606/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
