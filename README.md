@@ -21,6 +21,7 @@ I will be pushing my solved LeetCode problems over here :)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/luffy-2606/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/luffy-2606/LeetCode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
