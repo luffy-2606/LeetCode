@@ -10,6 +10,7 @@ I will be pushing my solved LeetCode problems over here :)
 | [0004-median-of-two-sorted-arrays](https://github.com/luffy-2606/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/luffy-2606/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/luffy-2606/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/luffy-2606/LeetCode/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ I will be pushing my solved LeetCode problems over here :)
 | [0005-longest-palindromic-substring](https://github.com/luffy-2606/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/luffy-2606/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/luffy-2606/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/luffy-2606/LeetCode/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +82,5 @@ I will be pushing my solved LeetCode problems over here :)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/luffy-2606/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/luffy-2606/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
