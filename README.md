@@ -11,6 +11,7 @@ I will be pushing my solved LeetCode problems over here :)
 | [0011-container-with-most-water](https://github.com/luffy-2606/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/luffy-2606/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/luffy-2606/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/luffy-2606/LeetCode/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ I will be pushing my solved LeetCode problems over here :)
 | [0011-container-with-most-water](https://github.com/luffy-2606/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/luffy-2606/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/luffy-2606/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/luffy-2606/LeetCode/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +87,7 @@ I will be pushing my solved LeetCode problems over here :)
 | ------- |
 | [0015-3sum](https://github.com/luffy-2606/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/luffy-2606/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/luffy-2606/LeetCode/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
