@@ -26,6 +26,7 @@ I will be pushing my solved LeetCode problems over here :)
 | ------- |
 | [0002-add-two-numbers](https://github.com/luffy-2606/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/luffy-2606/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/luffy-2606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ I will be pushing my solved LeetCode problems over here :)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/luffy-2606/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/luffy-2606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,4 +103,12 @@ I will be pushing my solved LeetCode problems over here :)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/luffy-2606/LeetCode/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/luffy-2606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/luffy-2606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
