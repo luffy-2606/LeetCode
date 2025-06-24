@@ -27,6 +27,7 @@ I will be pushing my solved LeetCode problems over here :)
 | [0002-add-two-numbers](https://github.com/luffy-2606/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/luffy-2606/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/luffy-2606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/luffy-2606/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ I will be pushing my solved LeetCode problems over here :)
 | ------- |
 | [0002-add-two-numbers](https://github.com/luffy-2606/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/luffy-2606/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/luffy-2606/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## String
 |  |
 | ------- |
