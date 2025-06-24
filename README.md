@@ -28,6 +28,7 @@ I will be pushing my solved LeetCode problems over here :)
 | [0019-remove-nth-node-from-end-of-list](https://github.com/luffy-2606/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/luffy-2606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/luffy-2606/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/luffy-2606/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
