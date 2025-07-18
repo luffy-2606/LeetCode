@@ -28,6 +28,7 @@ I will be pushing my solved LeetCode problems over here :)
 | [0019-remove-nth-node-from-end-of-list](https://github.com/luffy-2606/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/luffy-2606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/luffy-2606/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/luffy-2606/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/luffy-2606/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ I will be pushing my solved LeetCode problems over here :)
 | [0018-4sum](https://github.com/luffy-2606/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/luffy-2606/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/luffy-2606/LeetCode/tree/master/0027-remove-element) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/luffy-2606/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
