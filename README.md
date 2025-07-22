@@ -21,6 +21,7 @@ I will be pushing my solved LeetCode problems over here :)
 | [0012-integer-to-roman](https://github.com/luffy-2606/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/luffy-2606/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/luffy-2606/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/luffy-2606/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
@@ -32,6 +33,7 @@ I will be pushing my solved LeetCode problems over here :)
 | [0083-remove-duplicates-from-sorted-list](https://github.com/luffy-2606/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/luffy-2606/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/luffy-2606/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/luffy-2606/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ I will be pushing my solved LeetCode problems over here :)
 | [0027-remove-element](https://github.com/luffy-2606/LeetCode/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/luffy-2606/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/luffy-2606/LeetCode/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/luffy-2606/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
